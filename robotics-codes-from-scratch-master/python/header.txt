@@ -1,0 +1,10 @@
+'''
+Replace this paragraph by a short description of your program.
+
+Copyright (c) 2021 Idiap Research Institute, http://www.idiap.ch/
+Written by John Doe <john.doe@idiap.ch> and
+Sylvain Calinon <https://calinon.ch>
+
+This file is part of RCFS <https://robotics-codes-from-scratch.github.io/>
+License: MIT
+'''

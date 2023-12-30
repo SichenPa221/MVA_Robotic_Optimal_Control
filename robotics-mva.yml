@@ -1,0 +1,21 @@
+name: robotics-mva
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - example-robot-data
+  - gymnasium
+  - imageio
+  - ipywidgets
+  - jupyterlab
+  - matplotlib
+  - meshcat-python
+  - mujoco=2.3.7
+  - pinocchio
+  - python=3.10
+  - quadprog
+  - rich
+  - scipy
+  - stable-baselines3
+  - tensorboard
+  - tqdm
