@@ -44,8 +44,4 @@ The notebook will be accessible from your web browser at [localhost:8888](http:/
 
 Meshcat visualisation can be accessed in full page at `localhost:700N/static/` where N denotes the Nth MeshCat instance created by your notebook kernel.
 
-## Troubleshooting
 
-- Make sure the virtual environment is activated for ``jupyter-lab`` to work.
-- Make sure you call ``jupyter-lab`` so that Python packages pathes are configured properly.
-    - In particular, ``jupyter-notebook`` may not have paths configured properly, resulting in failed package imports.
